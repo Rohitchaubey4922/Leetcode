@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rohitchaubey4922/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/Rohitchaubey4922/Leetcode/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
